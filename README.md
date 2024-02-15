@@ -13,6 +13,7 @@ SHORT: The windshiled wipers will cycle every 3 seconds <br>
 MEDIUM: The windshield wipers will cycle every 6 seconds <br>
 LONG: The windshield wipers will cycle every 8 seconds <br>
 ## Goals and Results
+![image](https://github.com/bechtele/ece218_windshield_wiper_system_proj/assets/155581077/4929066c-7c92-4fc7-83dd-8ad181b4aa38)
 
 
 
